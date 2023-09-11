@@ -8,7 +8,7 @@
 html,body{
     height: 100vh;
     width: 100vw;
-    background-color: black;
+    
 }
 body{
     background: url("../imagens/fundo-madeira.jpg");
@@ -16,7 +16,7 @@ body{
       background-position: top center;
       background-size: cover;
       background-attachment: fixed;
-      overflow: clip;
+      overflow: hidden;
       
 }
     
